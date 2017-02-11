@@ -1,7 +1,7 @@
 INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`) VALUES (500000, 33, 9625, 'GM House',1);
 INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`) VALUES (500001, 33, 9626, 'Ravenholdt Manor',1);
 INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`) VALUES (500002, 33, 9627, 'Duskwood Inn',1);
-INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`) VALUES (500003, 33, 9628, 'Goldhain Inn',1);
+INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`) VALUES (500003, 33, 9628, 'Goldshire Inn',1);
 INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`) VALUES (500004, 33, 9629, 'Redridge Inn',1);
 INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`) VALUES (500005, 33, 9630, 'TrollInn (big)',1);
 INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`) VALUES (500006, 33, 9631, 'Trollshop 1',1);
